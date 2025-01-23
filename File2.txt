@@ -1,5 +1,0 @@
-
-Added new file #2
-1. Create new file in project folder.
-2. Eclipse> [WorkingTree] R-Click> AddToIndex. 
-  => new file gets added to the Staged Changes pane.
